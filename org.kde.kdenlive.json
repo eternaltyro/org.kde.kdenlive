@@ -17,7 +17,7 @@
         "--device=all",
         "--socket=pulseaudio",
         "--share=network",
-        "--filesystem=host",
+        "--filesystem=xdg-videos",
         "--filesystem=xdg-run/pipewire-0",
         "--system-talk-name=org.freedesktop.UDisks2",
         "--env=TMPDIR=/var/tmp",
